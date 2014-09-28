@@ -1,0 +1,13 @@
+.DS_Store
+.cache
+.settings/
+lib_managed/
+project/
+submission/
+target/
+bin/
+.history
+.project
+.class
+.classpath
+build.sbt
